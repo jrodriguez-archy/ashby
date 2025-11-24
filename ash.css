@@ -1,4 +1,5 @@
 :root {
   --fontFamily: "Onest", sans-serif;
-  --widthMaxJobBoard: 100%;
+  --widthMaxContent: 100%;
+ --widthMaxJobBoard: 100%;
 }
