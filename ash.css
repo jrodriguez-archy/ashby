@@ -1,9 +1,9 @@
 :root {
   --fontFamily: "Onest", sans-serif;
   --widthMaxContent: 100%;
- --widthMaxJobBoard: 100%;
+  --widthMaxJobBoard: 100%;
 }
 
 ._titles_ud4nd_34 {
- margin: 0
+  margin: 0;
 }
